@@ -1,0 +1,57 @@
+body{
+	margin: 0px;
+	color: rgb(20,20,20);
+	background: #c59c9c;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	color: black;
+	font-family: 'Lobster', cursive;
+}
+
+p{
+	font-size: 16px;
+	line-height: 20px;
+}
+
+#En-tête{
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+	background: linear-gradient(red, yellow);
+}
+
+#Sous-titre{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: black;
+}
+
+#mon-titre{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 300px;
+    color: white;
+}
+
+#mon-titre2{
+    text-align: center;
+    color: white;
+}
+
+#Fr{
+	text-align: center;
+}
+
+.imgf{
+	padding: 10px;
+}
+
+#bas-page{
+	padding: 15px;
+	background: rgb(30,30,30);
+	color: lightgray;
+}
